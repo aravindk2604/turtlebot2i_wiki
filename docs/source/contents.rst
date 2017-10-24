@@ -3,6 +3,7 @@
    :caption: Contents:
 
    about
+   softwareSetup
    license
    faq
    contact
