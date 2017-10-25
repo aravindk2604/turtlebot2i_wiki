@@ -28,8 +28,9 @@ TurtleBot 2i ROS Software/Demo Features
 - Teleoperation Examples
 - Self-Charging w/ Dock
 
+.. raw:: html
 
-.. youtube:: https://youtu.be/xzSNXq6xNjs
+  <iframe src="https://www.youtube.com/embed/xzSNXq6xNjs" style="border: 0; height: 345px; width: 560px"></iframe>
 
 
 Use Cases
@@ -37,32 +38,44 @@ Use Cases
 
 **Autonomous Sorting**
 
-.. youtube:: https://youtu.be/6mtsNkpCuIU
+.. raw:: html
+
+  <iframe src="https://www.youtube.com/embed/6mtsNkpCuIU" style="border: 0; height: 345px; width: 560px"></iframe>
 
 
 **Map Zone Identification and Waypoints**
 
-.. youtube:: https://youtu.be/tucON6jPqU4
+.. raw:: html
+
+  <iframe src="https://www.youtube.com/embed/tucON6jPqU4" style="border: 0; height: 345px; width: 560px"></iframe>
 
 
 **Path Planning**
 
-.. youtube:: https://youtu.be/tYPvYLXrcdY
+.. raw:: html
+
+  <iframe src="https://www.youtube.com/embed/tYPvYLXrcdY" style="border: 0; height: 345px; width: 560px"></iframe>
 
 
 **Obstacle Avoidance**
 
-.. youtube:: https://youtu.be/aMU2Lw8khZw
+.. raw:: html
+
+  <iframe src="https://www.youtube.com/embed/aMU2Lw8khZw" style="border: 0; height: 345px; width: 560px"></iframe>
 
 
 **Autonomous Navigation**
 
-.. youtube:: https://youtu.be/rJ3ITsHJoW4
+.. raw:: html
+
+  <iframe src="https://www.youtube.com/embed/rJ3ITsHJoW4" style="border: 0; height: 345px; width: 560px"></iframe>
 
 
 **RVIZ Direct Manipulation of ARM**
 
-.. youtube:: https://youtu.be/wT0BMt0Uh8k
+.. raw:: html
+
+  <iframe src="https://www.youtube.com/embed/wT0BMt0Uh8k" style="border: 0; height: 345px; width: 560px"></iframe>
 
 
 Technical features
